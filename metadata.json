@@ -1,0 +1,12 @@
+{
+  "name": "FieldFix Engineer App",
+  "description": "Condition-based maintenance (CBM) and fault triage mobile application for wind turbine engineers at Muppandal wind farm.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
